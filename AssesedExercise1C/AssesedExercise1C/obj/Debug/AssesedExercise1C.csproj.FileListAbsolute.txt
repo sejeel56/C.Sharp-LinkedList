@@ -1,0 +1,22 @@
+O:\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\bin\Debug\AssesedExercise1C.exe.config
+O:\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\bin\Debug\AssesedExercise1C.exe
+O:\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\bin\Debug\AssesedExercise1C.pdb
+O:\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.csproj.AssemblyReference.cache
+O:\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.csproj.SuggestedBindingRedirects.cache
+O:\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.Form1.resources
+O:\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.Properties.Resources.resources
+O:\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.csproj.GenerateResource.cache
+O:\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.csproj.CoreCompileInputs.cache
+O:\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.exe
+O:\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.pdb
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\bin\Debug\AssesedExercise1C.exe.config
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\bin\Debug\AssesedExercise1C.exe
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\bin\Debug\AssesedExercise1C.pdb
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.csproj.AssemblyReference.cache
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.csproj.SuggestedBindingRedirects.cache
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.Form1.resources
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.Properties.Resources.resources
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.csproj.GenerateResource.cache
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.csproj.CoreCompileInputs.cache
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.exe
+C:\Users\21360495\OneDrive - MMU\C# Assessed Project\AssesedExercise1C\AssesedExercise1C\obj\Debug\AssesedExercise1C.pdb
